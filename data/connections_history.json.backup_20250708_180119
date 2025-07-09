@@ -1,0 +1,9 @@
+{
+  "connections": [
+    {
+      "server": "localhost\\AUTOTRAFFIC_EMX",
+      "database": "users_controll",
+      "last_used": "2025-07-08T14:38:22.548563"
+    }
+  ]
+}

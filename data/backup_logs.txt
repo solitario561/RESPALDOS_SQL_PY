@@ -1,0 +1,253 @@
+[2025-07-08 16:41:00] Logs limpiados correctamente.
+[2025-07-08 16:41:03] Aplicación cerrada
+
+==================================================
+[2025-07-08 16:43:12] Sesión iniciada
+==================================================
+[2025-07-08 16:43:37] Aplicación cerrada
+
+==================================================
+[2025-07-08 16:43:59] Sesión iniciada
+==================================================
+[2025-07-08 16:44:01] Aplicación cerrada
+
+==================================================
+[2025-07-08 16:44:20] Sesión iniciada
+==================================================
+[2025-07-08 16:44:34] Error: Complete todos los campos de configuración y seleccione al menos una base de datos.
+[2025-07-08 16:44:44] Aplicación cerrada
+
+==================================================
+[2025-07-08 16:45:37] Sesión iniciada
+==================================================
+[2025-07-08 16:45:55] Aplicación cerrada
+
+==================================================
+[2025-07-08 16:47:35] Sesión iniciada
+==================================================
+[2025-07-08 16:47:40] Aplicación cerrada
+
+==================================================
+[2025-07-08 16:48:00] Sesión iniciada
+==================================================
+[2025-07-08 16:48:02] Aplicación cerrada
+
+==================================================
+[2025-07-08 16:54:10] Sesión iniciada
+==================================================
+[2025-07-08 16:54:17] Aplicación cerrada
+
+==================================================
+[2025-07-08 16:58:05] Sesión iniciada
+==================================================
+[2025-07-08 16:58:56] Aplicación cerrada
+
+==================================================
+[2025-07-08 16:59:02] Sesión iniciada
+==================================================
+[2025-07-08 16:59:04] Aplicación cerrada
+
+==================================================
+[2025-07-08 17:01:33] Sesión iniciada
+==================================================
+[2025-07-08 17:01:38] Aplicación cerrada
+
+==================================================
+[2025-07-08 17:09:47] Sesión iniciada
+==================================================
+[2025-07-08 17:10:33] Validación de conexión: exitosa.
+[2025-07-08 17:10:46] Validación de ruta: C:\prueba respaldos válida en local y servidor.
+[2025-07-08 17:11:09] Cargadas 4 bases de datos del servidor.
+[2025-07-08 17:11:40] Programado respaldo diario a las 17:12
+[2025-07-08 17:11:40] Proceso de respaldos iniciado.
+[2025-07-08 17:12:01] Respaldo completado: C:\prueba respaldos\edriving_controll_20250708_171200.bak
+[2025-07-08 17:12:02] Respaldo completado: C:\prueba respaldos\mexibus_controll_20250708_171201.bak
+[2025-07-08 17:12:02] Respaldo completado: C:\prueba respaldos\users_controll_20250708_171202.bak
+[2025-07-08 17:12:02] Respaldo completado: C:\prueba respaldos\trolebus_controll_20250708_171202.bak
+[2025-07-08 17:12:02] Respaldos exitosos: 4 BD(s)
+[2025-07-08 17:12:50] Proceso de respaldos detenido.
+[2025-07-08 17:12:51] Aplicación cerrada
+
+==================================================
+[2025-07-08 17:19:23] Sesión iniciada
+==================================================
+[2025-07-08 17:20:00] Validación de conexión: exitosa.
+[2025-07-08 17:20:27] Validación de ruta: C:\prueba respaldos válida en local y servidor.
+[2025-07-08 17:20:29] Cargadas 4 bases de datos del servidor.
+[2025-07-08 17:20:48] Error: Complete todos los campos de configuración y seleccione al menos una base de datos.
+[2025-07-08 17:20:58] Validación de ruta: C:\prueba respaldos válida en local y servidor.
+[2025-07-08 17:21:00] Validación de conexión: exitosa.
+[2025-07-08 17:21:06] Programado respaldo diario a las 17:21
+[2025-07-08 17:21:06] Proceso de respaldos iniciado.
+[2025-07-08 17:21:11] Proceso de respaldos detenido.
+[2025-07-08 17:21:15] Programado respaldo diario a las 17:22
+[2025-07-08 17:21:15] Proceso de respaldos iniciado.
+[2025-07-08 17:22:00] 🚀 Iniciando respaldos de 4 base(s) de datos (SQL Server)
+[2025-07-08 17:22:00] 📂 Ruta base: C:\prueba respaldos
+[2025-07-08 17:22:00] 📦 Respaldando BD 1/4: edriving_controll...
+[2025-07-08 17:22:01] ✅ Respaldo completado: edriving_controll
+[2025-07-08 17:22:01]    📁 Archivo: edriving_controll_20250708_172200.bak
+[2025-07-08 17:22:01]    📊 Tamaño: 0.00 MB
+[2025-07-08 17:22:01]    🗂️ Ubicación: C:\prueba respaldos\SQL_Server
+[2025-07-08 17:22:01] 📦 Respaldando BD 2/4: mexibus_controll...
+[2025-07-08 17:22:01] ✅ Respaldo completado: mexibus_controll
+[2025-07-08 17:22:01]    📁 Archivo: mexibus_controll_20250708_172201.bak
+[2025-07-08 17:22:01]    📊 Tamaño: 0.00 MB
+[2025-07-08 17:22:01]    🗂️ Ubicación: C:\prueba respaldos\SQL_Server
+[2025-07-08 17:22:01] 📦 Respaldando BD 3/4: users_controll...
+[2025-07-08 17:22:01] ✅ Respaldo completado: users_controll
+[2025-07-08 17:22:01]    📁 Archivo: users_controll_20250708_172201.bak
+[2025-07-08 17:22:01]    📊 Tamaño: 0.00 MB
+[2025-07-08 17:22:01]    🗂️ Ubicación: C:\prueba respaldos\SQL_Server
+[2025-07-08 17:22:01] 📦 Respaldando BD 4/4: trolebus_controll...
+[2025-07-08 17:22:01] ✅ Respaldo completado: trolebus_controll
+[2025-07-08 17:22:01]    📁 Archivo: trolebus_controll_20250708_172201.bak
+[2025-07-08 17:22:01]    📊 Tamaño: 0.00 MB
+[2025-07-08 17:22:01]    🗂️ Ubicación: C:\prueba respaldos\SQL_Server
+[2025-07-08 17:22:01] ==================================================
+[2025-07-08 17:22:01] 🎉 Respaldos exitosos: 4 BD(s)
+[2025-07-08 17:22:01]    ✅ edriving_controll
+[2025-07-08 17:22:01]    ✅ mexibus_controll
+[2025-07-08 17:22:01]    ✅ users_controll
+[2025-07-08 17:22:01]    ✅ trolebus_controll
+[2025-07-08 17:22:01] 📊 Total procesado: 4 BD(s) | Exitosos: 4 | Fallidos: 0
+[2025-07-08 17:22:01] ==================================================
+[2025-07-08 17:22:18] Proceso de respaldos detenido.
+[2025-07-08 17:22:18] Aplicación cerrada
+
+==================================================
+[2025-07-08 17:35:50] Sesión iniciada
+==================================================
+[2025-07-08 17:36:42] Validación de conexión: exitosa.
+[2025-07-08 17:36:52] ✅ Ruta válida: C:\prueba respaldos (local y servidor)
+[2025-07-08 17:36:53] Cargadas 4 bases de datos del servidor.
+[2025-07-08 17:37:04] Error: Complete todos los campos de configuración y seleccione al menos una base de datos.
+[2025-07-08 17:37:09] Programado respaldo diario a las 17:38
+[2025-07-08 17:37:09] Proceso de respaldos iniciado.
+[2025-07-08 17:38:00] 🚀 Iniciando respaldos de 4 base(s) de datos (SQL Server)
+[2025-07-08 17:38:00] 📂 Ruta base: C:\prueba respaldos
+[2025-07-08 17:38:00] 📦 Respaldando BD 1/4: edriving_controll...
+[2025-07-08 17:38:00] ✅ Respaldo completado: edriving_controll
+[2025-07-08 17:38:00]    📁 Archivo: edriving_controll_20250708_173800.bak
+[2025-07-08 17:38:00]    📊 Tamaño: 0.00 MB
+[2025-07-08 17:38:00]    🗂️ Ubicación: C:\prueba respaldos\SQL_Server
+[2025-07-08 17:38:00] 📦 Respaldando BD 2/4: mexibus_controll...
+[2025-07-08 17:38:00] ✅ Respaldo completado: mexibus_controll
+[2025-07-08 17:38:00]    📁 Archivo: mexibus_controll_20250708_173800.bak
+[2025-07-08 17:38:00]    📊 Tamaño: 0.00 MB
+[2025-07-08 17:38:00]    🗂️ Ubicación: C:\prueba respaldos\SQL_Server
+[2025-07-08 17:38:00] 📦 Respaldando BD 3/4: users_controll...
+[2025-07-08 17:38:01] ✅ Respaldo completado: users_controll
+[2025-07-08 17:38:01]    📁 Archivo: users_controll_20250708_173800.bak
+[2025-07-08 17:38:01]    📊 Tamaño: 0.00 MB
+[2025-07-08 17:38:01]    🗂️ Ubicación: C:\prueba respaldos\SQL_Server
+[2025-07-08 17:38:01] 📦 Respaldando BD 4/4: trolebus_controll...
+[2025-07-08 17:38:01] ✅ Respaldo completado: trolebus_controll
+[2025-07-08 17:38:01]    📁 Archivo: trolebus_controll_20250708_173801.bak
+[2025-07-08 17:38:01]    📊 Tamaño: 0.00 MB
+[2025-07-08 17:38:01]    🗂️ Ubicación: C:\prueba respaldos\SQL_Server
+[2025-07-08 17:38:01] ==================================================
+[2025-07-08 17:38:01] 🎉 Respaldos exitosos: 4 BD(s)
+[2025-07-08 17:38:01]    ✅ edriving_controll
+[2025-07-08 17:38:01]    ✅ mexibus_controll
+[2025-07-08 17:38:01]    ✅ users_controll
+[2025-07-08 17:38:01]    ✅ trolebus_controll
+[2025-07-08 17:38:01] 📊 Total procesado: 4 BD(s) | Exitosos: 4 | Fallidos: 0
+[2025-07-08 17:38:01] ==================================================
+[2025-07-08 17:41:15] Proceso de respaldos detenido.
+[2025-07-08 17:41:15] Aplicación cerrada
+
+==================================================
+[2025-07-08 17:47:45] Sesión iniciada
+==================================================
+[2025-07-08 17:48:11] Validación de conexión: exitosa.
+[2025-07-08 17:48:17] Cargadas 4 bases de datos del servidor.
+[2025-07-08 17:48:39] ✅ Ruta válida: C:\prueba respaldos (local y servidor)
+[2025-07-08 17:48:48] Error: Complete todos los campos de configuración y seleccione al menos una base de datos.
+[2025-07-08 17:48:54] Programado respaldo diario a las 17:49
+[2025-07-08 17:48:54] Proceso de respaldos iniciado.
+[2025-07-08 17:49:00] 🚀 Iniciando respaldos de 4 base(s) de datos (SQL Server)
+[2025-07-08 17:49:00] 📂 Ruta base: C:\prueba respaldos
+[2025-07-08 17:49:00] 📦 Respaldando BD 1/4: edriving_controll...
+[2025-07-08 17:49:02] ✅ Respaldo completado: edriving_controll
+[2025-07-08 17:49:02]    📁 Archivo: edriving_controll_20250708_174900.bak
+[2025-07-08 17:49:02]    📊 Tamaño: 26.88 MB
+[2025-07-08 17:49:02]    🗂️ Ubicación: C:\prueba respaldos\SQL_Server
+[2025-07-08 17:49:02] 📦 Respaldando BD 2/4: mexibus_controll...
+[2025-07-08 17:49:03] ✅ Respaldo completado: mexibus_controll
+[2025-07-08 17:49:03]    📁 Archivo: mexibus_controll_20250708_174902.bak
+[2025-07-08 17:49:03]    📊 Tamaño: 0.73 MB
+[2025-07-08 17:49:03]    🗂️ Ubicación: C:\prueba respaldos\SQL_Server
+[2025-07-08 17:49:03] 📦 Respaldando BD 3/4: users_controll...
+[2025-07-08 17:49:05] ✅ Respaldo completado: users_controll
+[2025-07-08 17:49:05]    📁 Archivo: users_controll_20250708_174903.bak
+[2025-07-08 17:49:05]    📊 Tamaño: 0.73 MB
+[2025-07-08 17:49:05]    🗂️ Ubicación: C:\prueba respaldos\SQL_Server
+[2025-07-08 17:49:05] 📦 Respaldando BD 4/4: trolebus_controll...
+[2025-07-08 17:49:06] ✅ Respaldo completado: trolebus_controll
+[2025-07-08 17:49:06]    📁 Archivo: trolebus_controll_20250708_174905.bak
+[2025-07-08 17:49:06]    📊 Tamaño: 0.69 MB
+[2025-07-08 17:49:06]    🗂️ Ubicación: C:\prueba respaldos\SQL_Server
+[2025-07-08 17:49:06] ==================================================
+[2025-07-08 17:49:06] 🎉 Respaldos exitosos: 4 BD(s)
+[2025-07-08 17:49:06]    ✅ edriving_controll
+[2025-07-08 17:49:06]    ✅ mexibus_controll
+[2025-07-08 17:49:06]    ✅ users_controll
+[2025-07-08 17:49:06]    ✅ trolebus_controll
+[2025-07-08 17:49:06] 📊 Total procesado: 4 BD(s) | Exitosos: 4 | Fallidos: 0
+[2025-07-08 17:49:06] ==================================================
+[2025-07-08 17:51:28] Proceso de respaldos detenido.
+[2025-07-08 17:51:28] Aplicación cerrada
+
+==================================================
+[2025-07-08 17:55:46] Sesión iniciada
+==================================================
+[2025-07-08 17:58:14] Error cargando bases de datos: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: La cadena de conexión no es válida [87].  (87) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Ha finalizado el tiempo de espera de inicio de sesión (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Error relacionado con la red o específico de instancia al establecer conexión con el servidor SQL Server. El servidor no se encuentra o no está accesible. Compruebe si el nombre de la instancia es correcto y si SQL Server está configurado para permitir conexiones remotas. Para obtener más información, vea los Libros en pantalla de SQL Server. (87)')
+[2025-07-08 17:58:36] Aplicación cerrada
+
+==================================================
+[2025-07-08 18:11:09] Sesión iniciada
+==================================================
+[2025-07-08 18:12:06] Aplicación cerrada
+
+==================================================
+[2025-07-08 18:12:25] Sesión iniciada
+==================================================
+[2025-07-08 18:13:01] Validación de conexión: exitosa.
+[2025-07-08 18:13:02] Cargadas 4 bases de datos del servidor.
+[2025-07-08 18:13:16] ✅ Ruta válida: C:\prueba respaldos (local y servidor)
+[2025-07-08 18:13:34] Programado respaldo diario a las 18:14
+[2025-07-08 18:13:34] Proceso de respaldos iniciado.
+[2025-07-08 18:14:00] 🚀 Iniciando respaldos de 4 base(s) de datos (SQL Server)
+[2025-07-08 18:14:00] 📂 Ruta base: C:\prueba respaldos
+[2025-07-08 18:14:00] 📦 Respaldando BD 1/4: edriving_controll...
+[2025-07-08 18:14:02] ✅ Respaldo completado: edriving_controll
+[2025-07-08 18:14:02]    📁 Archivo: edriving_controll_20250708_181400.bak
+[2025-07-08 18:14:02]    📊 Tamaño: 26.88 MB
+[2025-07-08 18:14:02]    🗂️ Ubicación: C:\prueba respaldos\SQL_Server
+[2025-07-08 18:14:02] 📦 Respaldando BD 2/4: mexibus_controll...
+[2025-07-08 18:14:03] ✅ Respaldo completado: mexibus_controll
+[2025-07-08 18:14:03]    📁 Archivo: mexibus_controll_20250708_181402.bak
+[2025-07-08 18:14:03]    📊 Tamaño: 0.73 MB
+[2025-07-08 18:14:03]    🗂️ Ubicación: C:\prueba respaldos\SQL_Server
+[2025-07-08 18:14:03] 📦 Respaldando BD 3/4: users_controll...
+[2025-07-08 18:14:04] ✅ Respaldo completado: users_controll
+[2025-07-08 18:14:04]    📁 Archivo: users_controll_20250708_181403.bak
+[2025-07-08 18:14:04]    📊 Tamaño: 0.73 MB
+[2025-07-08 18:14:04]    🗂️ Ubicación: C:\prueba respaldos\SQL_Server
+[2025-07-08 18:14:04] 📦 Respaldando BD 4/4: trolebus_controll...
+[2025-07-08 18:14:05] ✅ Respaldo completado: trolebus_controll
+[2025-07-08 18:14:05]    📁 Archivo: trolebus_controll_20250708_181404.bak
+[2025-07-08 18:14:05]    📊 Tamaño: 0.69 MB
+[2025-07-08 18:14:05]    🗂️ Ubicación: C:\prueba respaldos\SQL_Server
+[2025-07-08 18:14:05] ==================================================
+[2025-07-08 18:14:05] 🎉 Respaldos exitosos: 4 BD(s)
+[2025-07-08 18:14:05]    ✅ edriving_controll
+[2025-07-08 18:14:05]    ✅ mexibus_controll
+[2025-07-08 18:14:05]    ✅ users_controll
+[2025-07-08 18:14:05]    ✅ trolebus_controll
+[2025-07-08 18:14:05] 📊 Total procesado: 4 BD(s) | Exitosos: 4 | Fallidos: 0
+[2025-07-08 18:14:05] ==================================================
+[2025-07-08 18:16:15] Proceso de respaldos detenido.
+[2025-07-08 18:16:19] Aplicación cerrada
+
